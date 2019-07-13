@@ -1,13 +1,24 @@
-# Sample Snack app
+Udacity Flashcards
+This app was built using create-react-native-app as a part of Udacity's React Nanodegree.
 
-Welcome to Expo!
+The project meets the specified requirements defined by Udacity Rubric
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+Installation guide
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+install dependencies - npm install
+start dev server - expo start or npm start
+OR
 
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+Install ecpo app on ur mobile device
+Go to https://snack.expo.io/
+Create snack
+Click on  3 dots beside project
+import git repository
+Copy link https://github.com/deepnitk/p3-MobileFlashcards
+Save
+Go to expo app
+under on particular project under recent development click 
+Done.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+Platform
+This app was developed and tested using expo running on iPhone 7(iOS 12.1)
