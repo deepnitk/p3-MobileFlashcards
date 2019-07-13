@@ -1,4 +1,4 @@
-mport React from 'react'
+import React from 'react'
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native'
 import { black, white } from '../utils/colors'
 import { withNavigation } from 'react-navigation'
