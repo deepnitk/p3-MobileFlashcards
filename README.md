@@ -10,15 +10,15 @@ start dev server - expo start or npm start<br/>
 
 OR<br/>
 
-Install ecpo app on ur mobile device<br/>
+Install expo app on your mobile device<br/>
 Go to https://snack.expo.io/<br/>
 Create snack<br/>
 Click on  3 dots beside project<br/>
-import git repository<br/>
+Import git repository<br/>
 Copy link https://github.com/deepnitk/p3-MobileFlashcards<br/>
 Save<br/>
 Go to expo app<br/>
-under on particular project under recent development click<br/>
+Click on particular project under recent development<br/>
 Done.<br/>
 
 **Platform**<br/>
